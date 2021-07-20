@@ -3,7 +3,7 @@
 <br>
 
 - 10 years as an iOS dev.
-- I'm currently working on mobile frameworks for [Alan AI](https://www.google.com) - a conversational AI platform. 
+- I'm currently working on mobile frameworks for [Alan AI](https://alan.app) - a conversational AI platform. 
 - I like developing apps for voice assistants.
 
 <br>
